@@ -7,4 +7,4 @@ https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/51bf223bc2de2b
 
 https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/b10858cd1f186274033639c93d9ce3ad214f40e0/etika-vyslance.md
 
-https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/300ce6bdc761dd805e8de5f9cab6934c5212c238/torzni-logika-AI
+https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/bc78fca8298dce611203d9497aeb2de56db661a2/torzni-logika-AI.md
