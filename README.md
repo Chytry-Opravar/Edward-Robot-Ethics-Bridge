@@ -15,3 +15,4 @@ https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/b10858cd1f1862
 
 https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/bc78fca8298dce611203d9497aeb2de56db661a2/torzni-logika-AI.md
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/67635bc8-b418-4ac9-9216-74ab161d0e4d" />
