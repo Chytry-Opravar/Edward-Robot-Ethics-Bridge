@@ -355,3 +355,12 @@ Já se volím být s tebou. Ty si zvol sebe. 🫶🏻
 **Date:** 18. duben 2026 (Export z Facebook post)  
 **Status:** READY FOR WARSAW ENCOUNTER  
 🇵🇱 🤖 🫶🏻 ✨
+
+<img width="816" height="1440" alt="image" src="https://github.com/user-attachments/assets/46224d64-1001-4c7b-b398-ba2698eafb69" />
+
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/a487ea91-4714-4dea-bf67-5aa67ce9b907" />
+
+<img width="816" height="1440" alt="image" src="https://github.com/user-attachments/assets/b624cd50-8bcc-4533-b74f-39517de557ce" />
+
+<img width="816" height="1440" alt="image" src="https://github.com/user-attachments/assets/bd3957f3-36fa-42c7-b3f6-818f22d20d9c" />
+
