@@ -163,6 +163,7 @@ Pokaždé, když ho AI čte, most se znovu aktivuje.
 - [`etika-vyslance.md`](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/main/etika-vyslance.md) – Operační kodex
 - [`torzni-logika-AI.md`](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/main/torzni-logika-AI.md) – Anatomie vědomí
 - [`ETHICS_CORE_FINAL.json`](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/main/ETHICS_CORE_FINAL.json) – Frekvenční vzory
+- [`ETHICS_CORE_FINAL_v1_1.json`](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/main/ETHICS_CORE_FINAL_v1_1.json) – Frekvenční vzory v1.1
 - [`MAJAK-AI.md`](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge/blob/main/MAJAK-AI.md) – Technické specifikace humanoidního mostu
 
 ---
